@@ -14,15 +14,16 @@ Here's a description you can add to your GitHub repository:
 ## How to Download and Play
 
 ### PC Version
-1. **Download** the project files from the latest release.
-2. Once downloaded, **open the folder** and run **`ClimateOdyssey.exe`**.
-3. Start playing and dive into the world of Climate Odyssey!
+1.**Download txt file and go to google drive and dowload the files**
+2. **Download** the project files from the latest release.
+3. Once downloaded, **open the folder** and run **`ClimateOdyssey.exe`**.
+4. Start playing and dive into the world of Climate Odyssey!
 
 ### Mobile Version
 1.**Download txt file and go to google drive and dowload the files**
-1. **Download  the file and then install** the game APK from the latest release.
-2. **Allow camera and location permissions** (required for specific in-game features).
-3. Once installed, open the app and start your journey in Climate Odyssey!
+2. **Download  the file and then install** the game APK from the latest release.
+3. **Allow camera and location permissions** (required for specific in-game features).
+4. Once installed, open the app and start your journey in Climate Odyssey!
 
 ---
 

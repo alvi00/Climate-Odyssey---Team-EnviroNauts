@@ -20,7 +20,7 @@ Here's a description you can add to your GitHub repository:
 
 ### Mobile Version
 1. **Download and install** the game APK from the latest release.
-2. When prompted, **allow camera and location permissions** (required for specific in-game features).
+2. **Allow camera and location permissions** (required for specific in-game features).
 3. Once installed, open the app and start your journey in Climate Odyssey!
 
 ---
@@ -28,4 +28,4 @@ Here's a description you can add to your GitHub repository:
 ## Requirements
 
 **PC**: Windows 10 or later \
-**Mobile**: Android 8.0 or later, with camera and GPS capabilities
+**Mobile**: Android 11.0 or later, with camera and GPS capabilities

@@ -19,7 +19,8 @@ Here's a description you can add to your GitHub repository:
 3. Start playing and dive into the world of Climate Odyssey!
 
 ### Mobile Version
-1. **Download and then unzip the file and then install** the game APK from the latest release.
+1.**Download txt file and go to google drive and dowload the files**
+1. **Download  the file and then install** the game APK from the latest release.
 2. **Allow camera and location permissions** (required for specific in-game features).
 3. Once installed, open the app and start your journey in Climate Odyssey!
 
